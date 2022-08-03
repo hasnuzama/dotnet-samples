@@ -1,7 +1,0 @@
-C:\Work\Personal\Hasnu\dotnet-samples\SQLServer\bin\Debug\SQLServer.exe.config
-C:\Work\Personal\Hasnu\dotnet-samples\SQLServer\bin\Debug\SQLServer.exe
-C:\Work\Personal\Hasnu\dotnet-samples\SQLServer\bin\Debug\SQLServer.pdb
-C:\Work\Personal\Hasnu\dotnet-samples\SQLServer\obj\Debug\SQLServer.csproj.AssemblyReference.cache
-C:\Work\Personal\Hasnu\dotnet-samples\SQLServer\obj\Debug\SQLServer.csproj.CoreCompileInputs.cache
-C:\Work\Personal\Hasnu\dotnet-samples\SQLServer\obj\Debug\SQLServer.exe
-C:\Work\Personal\Hasnu\dotnet-samples\SQLServer\obj\Debug\SQLServer.pdb
